@@ -65,7 +65,6 @@ function contarVogais(palavra) {
             contador++;
         }
     }
-
     return contador;
 }
 
